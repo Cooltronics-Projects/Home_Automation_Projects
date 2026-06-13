@@ -1,5 +1,3 @@
-# Home_Automation_Projects
-
 # 🏠 Home Automation Projects
 
 A collection of DIY home automation projects built with ESP32, Arduino, and other microcontrollers. Each project lives in its own folder with full source code, wiring diagrams, and documentation.
